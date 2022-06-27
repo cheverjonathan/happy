@@ -1,7 +1,7 @@
 {
-  "name": "happy-birthday",
+  "name": "happy-Everyday",
   "version": "1.0.0",
-  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "description": "An app that let's you say happy Everyday to your friend in a nerdy way.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/faahim/happy-Everyday.git"
   },
   "keywords": [
     "Happy",
-    "Birthday"
+    "Everyday"
   ],
   "author": "Afiur Rahman Fahim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/faahim/happy-Everyday/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/faahim/happy-Everyday#readme",
   "dependencies": {}
 }
